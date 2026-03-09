@@ -549,7 +549,6 @@ This tool is designed for **legal security testing** and **educational purposes*
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/bidhata/WAFNinja/issues)
 - 💡 **Feature Requests**: [GitHub Discussions](https://github.com/bidhata/WAFNinja/discussions)
 - 📧 **Email Support**: me@krishnendu.com
-- 📚 **Documentation**: [Wiki](https://github.com/bidhata/WAFNinja/wiki)
 
 ### 🌐 Community
 
@@ -642,3 +641,4 @@ Built with ❤️ by security professionals, for security professionals.
 [![GitHub forks](https://img.shields.io/github/forks/bidhata/WAFNinja?style=social)](https://github.com/bidhata/WAFNinja/network/members)
 
 </div>
+
