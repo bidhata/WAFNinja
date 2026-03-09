@@ -1,6 +1,11 @@
 MIT License
 
-Copyright (c) 2026 Krish Paul
+Copyright (c) 2024 Krishnendu Paul
+
+WAFNinja v1.0
+Author: Krishnendu Paul (me@krishnendu.com)
+GitHub: https://github.com/bidhata/WAFNinja
+Based on: evilwaf by matrixleons
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +24,51 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+LEGAL DISCLAIMER
+
+This software (WAFNinja) is provided for EDUCATIONAL PURPOSES and AUTHORIZED
+SECURITY TESTING ONLY.
+
+IMPORTANT LEGAL REQUIREMENTS:
+
+1. AUTHORIZED USE ONLY
+   - You MUST have explicit written permission to test any system
+   - Unauthorized access to computer systems is ILLEGAL
+   - Violators may face criminal prosecution
+
+2. INTENDED USE
+   - Security research and education
+   - Authorized penetration testing
+   - Security assessment with permission
+   - Academic research
+
+3. PROHIBITED USE
+   - Unauthorized system access
+   - Malicious attacks
+   - Data theft or destruction
+   - Any illegal activity
+
+4. LIABILITY
+   - The author is NOT responsible for misuse
+   - The author is NOT responsible for any damage caused
+   - Users assume ALL responsibility for their actions
+   - Use at your own risk
+
+5. COMPLIANCE
+   - Comply with all applicable laws and regulations
+   - Respect system owners' rights
+   - Follow responsible disclosure practices
+   - Obtain proper authorization before testing
+
+BY USING THIS SOFTWARE, YOU AGREE TO:
+- Use it only for authorized and legal purposes
+- Take full responsibility for your actions
+- Comply with all applicable laws
+- Not hold the author liable for any consequences
+
+If you do not agree with these terms, DO NOT USE this software.
+
+═══════════════════════════════════════════════════════════════════════════════
