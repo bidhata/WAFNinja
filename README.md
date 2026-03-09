@@ -4,7 +4,7 @@
 
 # 🥷 WAFNinja
 
-### *The Ultimate AI-Powered WAF Bypass Tool for BurpSuite*
+### *When WAFs blink, ninjas strike*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-2.7%2B-blue.svg)](https://www.python.org/)
@@ -561,21 +561,21 @@ This tool is designed for **legal security testing** and **educational purposes*
 
 ## 🎯 Roadmap
 
-### 🚀 Version 1.1 (Q2 2024)
+### 🚀 Version 1.1
 - [ ] Neural network-based technique selection
 - [ ] Advanced pattern recognition
 - [ ] Real-time dashboard with WebSocket
 - [ ] Cloud WAF support (Azure, GCP)
 - [ ] Automated report generation
 
-### 🚀 Version 1.2 (Q3 2024)
+### 🚀 Version 1.2
 - [ ] Distributed testing with Kubernetes
 - [ ] GraphQL/WebSocket/gRPC support
 - [ ] Browser automation integration
 - [ ] API for external integrations
 - [ ] Mobile app support
 
-### 🚀 Version 2.0 (Q4 2024)
+### 🚀 Version 2.0
 - [ ] Complete AI/ML overhaul with deep learning
 - [ ] Autonomous bypass discovery
 - [ ] Multi-target orchestration
@@ -614,7 +614,7 @@ This tool is designed for **legal security testing** and **educational purposes*
 
 Built with ❤️ by security professionals, for security professionals.
 
-**Based on**: [evilwaf](https://github.com/matrixleons/evilwaf) by matrixleons
+**Inspired by**: [evilwaf](https://github.com/matrixleons/evilwaf) by matrixleons
 
 **Powered by**:
 - 🐍 Python & Jython
@@ -641,4 +641,5 @@ Built with ❤️ by security professionals, for security professionals.
 [![GitHub forks](https://img.shields.io/github/forks/bidhata/WAFNinja?style=social)](https://github.com/bidhata/WAFNinja/network/members)
 
 </div>
+
 
