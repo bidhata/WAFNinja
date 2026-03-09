@@ -267,7 +267,7 @@ Best Technique: Unicode Normalization (98.5% success)
 
 1. **Download Jython Standalone JAR**
    ```bash
-   wget https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.3/jython-standalone-2.7.3.jar
+   wget https://repo1.maven.org/maven2/org/python/jython-standalone/2.7.4/jython-standalone-2.7.4.jar
    ```
 
 2. **Configure Jython in BurpSuite**
@@ -712,5 +712,6 @@ Built with ❤️ by security professionals, for security professionals.
 [![GitHub forks](https://img.shields.io/github/forks/bidhata/WAFNinja?style=social)](https://github.com/bidhata/WAFNinja/network/members)
 
 </div>
+
 
 
